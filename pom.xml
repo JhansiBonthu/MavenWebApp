@@ -20,8 +20,8 @@
     <version>2.5</version>
 </dependency>
   </dependencies>
- <build>
+ <!--<build>
     <finalName>MavenWebApp</finalName>
   </build>
-  
+  -->
 </project>
